@@ -1,16 +1,21 @@
-## Hi there 👋
+<h3 align="center">Technologies I'm embracing with passion</h3>
 
-<!--
-**lucmarbjo/lucmarbjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h6 align="center">(Ranked by passion per embracement, from left to right)</h6>
+
+###
