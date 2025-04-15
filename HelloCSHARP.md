@@ -10,4 +10,4 @@
 
 - https://youtu.be/ravLFzIguCM?si=5auhmfzMMAiZgMoT
 
-
+- https://www.w3schools.com/cs/index.php
