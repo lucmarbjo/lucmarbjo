@@ -12,6 +12,7 @@
 
 - [W3Schools.com C#](https://www.w3schools.com/cs/index.php)
 
+- [Geeks for Geeks - C++ vs C#](https://www.geeksforgeeks.org/c-vs-c-sharp/)
 #### Most helpful Docs
 - [github.com/milanm/DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap/tree/main?tab=readme-ov-file)
   - [FastEndpoints](https://fast-endpoints.com/) (picked from the roadmap)
