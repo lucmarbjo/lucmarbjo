@@ -3,17 +3,17 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"  />
+  <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.5"><img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"  /></a>
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  />
+  <a href="https://azure.microsoft.com/en-us/get-started/azure-portal/"><img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  /></a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  /></a>
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
+  <a href="https://www.microsoft.com/nb-no/windows-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows logo"  /></a>
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub Logo"  /></a>
   <img width="25" />
-  <img src="https://learn.microsoft.com/en-us/dotnet/media/logo_csharp.png" height="50" alt="github logo"  />
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://learn.microsoft.com/en-us/dotnet/media/logo_csharp.png" height="50" alt="C# Logo"  /></a>
   
 </div>
 
@@ -28,21 +28,21 @@
 <h3 align="center">My Favourite IDE's</h3>
 
 <div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rider-Dark.svg" height="50" alt="Jetbrains Rider"  />
+  <a href="https://www.jetbrains.com/rider/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rider-Dark.svg" height="50" alt="Jetbrains Rider"  /></a>
   <img width="25" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" height="50" alt="MSFT VisualStudio"  />
+  <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" height="50" alt="MSFT VisualStudio"  /></a>
   <img width="25" /> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm-Dark.svg" height="50" alt="Jetbrains WebStorm"  />
+  <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm-Dark.svg" height="50" alt="Jetbrains WebStorm"  /></a>
   <img width="25" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" alt="MSFT VisualStudio Code"  />
+  <a href="https://code.visualstudio.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" alt="MSFT VisualStudio Code"  /></a>
 </div>
 
 <h3 align="center">My Favourite Tools</h3>
 
 <div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" height="50" alt="Obsidian notetaking">
+  <a href="https://obsidian.md/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" height="50" alt="Obsidian notetaking" /></a>
   <img width="25" />  
-  <img src="https://logo.svgcdn.com/d/insomnia-original.svg" height="50" alt="Insomnia">
+  <a href="https://insomnia.rest/"><img src="https://logo.svgcdn.com/d/insomnia-original.svg" height="50" alt="Insomnia" /></a>
 </div>
 
 ###
@@ -57,11 +57,11 @@
 <h3 align="center">You can reach me on</h3>
 
 <div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" alt="powershell logo"  />
+  <a href="https://linkedin.com/in/lucasbj"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" alt="LinkedIn Logo" /></a>
   <img width="25" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="50" alt="azure logo"  />
+  <a href="https://github.com/lucmarbjo/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="50" alt="GitHub Logo" /></a>
   <img width="25" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" height="50" alt="microsoftsqlserver logo"  />
+  <a href="I_would_like_to_keep_my_Discord_info_private"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" height="50" alt="Discord Logo" /></a>
   
 </div>
 
