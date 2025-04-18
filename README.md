@@ -28,14 +28,21 @@
 <h3 align="center">My Favourite IDE's</h3>
 
 <div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rider-Dark.svg" height="50" alt="powershell logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rider-Dark.svg" height="50" alt="Jetbrains Rider"  />
   <img width="25" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" height="50" alt="azure logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" height="50" alt="MSFT VisualStudio"  />
   <img width="25" /> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm-Dark.svg" height="50" alt="microsoftsqlserver logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm-Dark.svg" height="50" alt="Jetbrains WebStorm"  />
   <img width="25" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" alt="windows8 logo"  />
-  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" alt="MSFT VisualStudio Code"  />
+</div>
+
+<h3 align="center">My Favourite Tools</h3>
+
+<div align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" height="50" alt="Obsidian notetaking">
+  <img width="25" />  
+  <img src="https://logo.svgcdn.com/d/insomnia-original.svg" height="50" alt="Insomnia">
 </div>
 
 ###
