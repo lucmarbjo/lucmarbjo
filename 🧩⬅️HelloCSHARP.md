@@ -37,3 +37,7 @@
 #### Most helpful Docs
 - [github.com/milanm/DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap/tree/main?tab=readme-ov-file)
   - [FastEndpoints](https://fast-endpoints.com/) (picked from the roadmap)
+
+### **POINTERS**
+
+- ["You will never ask about pointers again after watching this video"](https://youtu.be/2ybLD6_2gKM?si=7jQ27N_kXh4yuGHN)
