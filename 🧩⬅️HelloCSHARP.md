@@ -21,6 +21,10 @@
 
 - [C# in 100 seconds (Youtube video)](https://youtu.be/ravLFzIguCM?si=5auhmfzMMAiZgMoT)
 
+- [C++ in 100 seconds](https://youtu.be/MNeX4EGtR5Y?si=XsgqgE6-sAsZvTHT)
+
+
+
 ### Unofficial Docs
 
 - [Geeks for Geeks - Main Method](https://www.geeksforgeeks.org/main-method-in-c-sharp/)
