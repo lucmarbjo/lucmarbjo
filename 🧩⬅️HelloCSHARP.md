@@ -15,13 +15,17 @@
     - [Finalizers](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/finalizers)
     - [Nested Types](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/nested-types)
 
+### YT Videos
+
+- [ C vs C++ vs C# ](https://youtu.be/sNMtjs_wQiE?si=WqA8K640YMAUftsM)
+
+- [C# in 100 seconds (Youtube video)](https://youtu.be/ravLFzIguCM?si=5auhmfzMMAiZgMoT)
+
 ### Unofficial Docs
 
 - [Geeks for Geeks - Main Method](https://www.geeksforgeeks.org/main-method-in-c-sharp/)
 
 - [github.com/milanm/DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap/tree/main?tab=readme-ov-file)
-
-- [C# in 100 seconds (Youtube video)](https://youtu.be/ravLFzIguCM?si=5auhmfzMMAiZgMoT)
 
 - [W3Schools.com C#](https://www.w3schools.com/cs/index.php)
 
