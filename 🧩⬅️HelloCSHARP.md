@@ -23,6 +23,8 @@
 
 - [C++ in 100 seconds](https://youtu.be/MNeX4EGtR5Y?si=XsgqgE6-sAsZvTHT)
 
+- [Brutally honest advice for new .NET Web Developers](https://youtu.be/ohkeYczD1LY?si=Qk8ZuIsp9IXp2Usb)
+
 
 
 ### Unofficial Docs
