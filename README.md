@@ -28,21 +28,9 @@
 <h3 align="center">My Favourite IDE's</h3>
 
 <div align="center">
-  <a href="https://www.jetbrains.com/rider/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rider-Dark.svg" height="50" alt="Jetbrains Rider"  /></a>
-  <img width="25" />
   <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" height="50" alt="MSFT VisualStudio"  /></a>
   <img width="25" /> 
-  <a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm-Dark.svg" height="50" alt="Jetbrains WebStorm"  /></a>
-  <img width="25" />
   <a href="https://code.visualstudio.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" alt="MSFT VisualStudio Code"  /></a>
-</div>
-
-<h3 align="center">My Favourite Tools</h3>
-
-<div align="center">
-  <a href="https://obsidian.md/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" height="50" alt="Obsidian notetaking" /></a>
-  <img width="25" />  
-  <a href="https://insomnia.rest/"><img src="https://logo.svgcdn.com/d/insomnia-original.svg" height="50" alt="Insomnia" /></a>
 </div>
 
 ###
@@ -58,6 +46,8 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/lucasbj"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" alt="LinkedIn Logo" /></a>
+  <img width="25" />
+  <a href="https://dba.stackexchange.com/users/337924/lucmarbjo"><img src="https://www.shareicon.net/data/128x128/2015/08/16/86061_stackexchange_64x83.png" height="50" width="50" alt="DBA.stackexchange logo" /></a>
   <img width="25" />
   <a href="https://github.com/lucmarbjo/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="50" alt="GitHub Logo" /></a>
   <img width="25" />
