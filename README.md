@@ -47,12 +47,8 @@
 <div align="center">
   <a href="https://linkedin.com/in/lucasbj"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" alt="LinkedIn Logo" /></a>
   <img width="25" />
-  <a href="https://dba.stackexchange.com/users/337924/lucmarbjo"><img src="https://www.shareicon.net/data/128x128/2015/08/16/86061_stackexchange_64x83.png" height="50" width="50" alt="DBA.stackexchange logo" /></a>
-  <img width="25" />
   <a href="https://github.com/lucmarbjo/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="50" alt="GitHub Logo" /></a>
-  <img width="25" />
-  <a href="I_would_like_to_keep_my_Discord_info_private"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" height="50" alt="Discord Logo" /></a>
-  
+
 </div>
 
 ###
